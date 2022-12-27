@@ -1,13 +1,13 @@
-package RequestExample.subsystems;
+package subsystems;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import RequestExample.requests.ParallelRequest;
-import RequestExample.requests.Request;
-import RequestExample.requests.SequentialRequest;
-import RequestExample.requests.WaitRequest;
+import requests.ParallelRequest;
+import requests.Request;
+import requests.SequentialRequest;
+import requests.WaitRequest;
 
 public class Superstructure {
 

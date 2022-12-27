@@ -1,4 +1,4 @@
-package RequestExample.util;
+package util;
 
 public class Util {
 

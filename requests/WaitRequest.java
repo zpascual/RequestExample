@@ -1,4 +1,4 @@
-package RequestExample.requests;
+package requests;
 
 public class WaitRequest extends Request {
 

@@ -1,4 +1,4 @@
-package RequestExample.requests;
+package requests;
 
 /**
  * A request that is able to call a method and run it without the need of building out the request infastructure

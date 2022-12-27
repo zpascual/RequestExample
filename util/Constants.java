@@ -1,4 +1,4 @@
-package RequestExample;
+package util;
 public class Constants {
 
     /**

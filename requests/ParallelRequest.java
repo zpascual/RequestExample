@@ -1,4 +1,4 @@
-package RequestExample.requests;
+package requests;
 
 import java.util.ArrayList;
 import java.util.List;

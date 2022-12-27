@@ -1,4 +1,4 @@
-package RequestExample.requests;
+package requests;
 
 /**
  * Empty request that does not execute any functions and will always return finished as true.
